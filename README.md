@@ -2,6 +2,6 @@
 Taller paso a paso LAB2
 
 Integrantes 
-1.Tatiana Rugeles
-2.Nicolas Romero
-3.Uber Florez
+1.Uber Florez
+2.
+3.
